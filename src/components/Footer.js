@@ -4,13 +4,17 @@ import React from 'react'
 function Footer() {
   return (
     <>
+     {/*
       <Box sx={{ textAlign: "center" }}>
         <Typography variant="h4"></Typography>
         <a href="https://github.com/" target="_blank" rel="noreferrer">
           <Typography variant='h6'> Source code </Typography>
         </a>
       </Box>
+      */
+       }
     </>
+    
   );
 }
 
